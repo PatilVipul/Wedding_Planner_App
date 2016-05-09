@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Mon May 09 13:59:23 PDT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0154-9751-3685-0000069969d0 
+on database directory D:\MS\3 Quarter\Object Oriented Analysis Design Programming\Project\Patil.Vipul.FinalProject (W1102457)\WeddingPlanner\test  with class loader sun.misc.Launcher$AppClassLoader@12f53870 
+Loaded from file:/C:/Users/Vipul/Downloads/plugins/org.apache.derby.core_10.8.2/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_01-b08
+user.dir=D:\MS\3 Quarter\Object Oriented Analysis Design Programming\Project\Patil.Vipul.FinalProject (W1102457)\WeddingPlanner
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
